@@ -1,0 +1,5 @@
+Flask==1.0.2
+Flask-Cors==1.10.3
+Flask-RESTful==0.3.9
+libscrc==1.6
+requests==2.26.0 

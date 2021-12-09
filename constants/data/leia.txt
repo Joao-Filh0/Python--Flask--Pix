@@ -1,0 +1,2 @@
+Aqui dentro desse diretório coloque seus arquivos .key e .pem.
+Soliciteos com o banco da sua escolha para esse projeto foi usado o pague seguro.
