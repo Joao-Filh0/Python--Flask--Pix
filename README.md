@@ -24,7 +24,7 @@ Esse projeto reune todos os processos exigidos pela [BCB](https://www.bcb.gov.br
 **Nota** : Essas foram as versões das libs utilizadas por min, tendo em conta é o que esta funcionando até o presente momento.
 
 ### Instalar libs
-- Segue alguns comandos que precisará rodar
+- Segue alguns comandos que precisará rodar.
 
 ```bash
 pip install Flask==1.0.2 Flask-Cors==1.10.3 Flask-RESTful==0.3.9 libscrc==1.6 requests==2.26.0
