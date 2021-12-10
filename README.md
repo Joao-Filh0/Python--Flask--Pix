@@ -47,7 +47,7 @@ Ainda no arquivo constants/permissions.py cole seu CLIENTE_ID e seu CLIENT_SECRE
 
 Cole na chave `webhookUrl` a url da api que quer configurar.
 
-```webhook_data =  {"webhookUrl": "Api de sua Url Hook"}```
+```webhook_data =  {"webhookUrl": "Url de sua Api Hook"}```
 
  
 
