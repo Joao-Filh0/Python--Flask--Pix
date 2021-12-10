@@ -40,8 +40,9 @@ No arquivo constants/permissions.py adicione seu arquivo .pem e .key .
 
 Ainda no arquivo constants/permissions.py cole seu CLIENTE_ID e seu CLIENT_SECRET nas váriaveis.
 
-```__CLIENT_ID__ = "Cole aqui seu CLIENT_ID"
-__CLIENT_SECRET__ = "Cole Aqui seu CLIENT_SECRET" ```
+```__CLIENT_ID__ = "Cole aqui seu CLIENT_ID"```
+
+```__CLIENT_SECRET__ = "Cole Aqui seu CLIENT_SECRET"```
 
 ### Configurando webhooks
 
