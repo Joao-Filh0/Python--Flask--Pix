@@ -3,7 +3,7 @@
 [Python](https://www.python.org/) | [Fask](https://flask.palletsprojects.com/en/2.0.x/) | [Pix](https://www.bcb.gov.br/estabilidadefinanceira/pix?modalAberto=regulamentacao_pix) 
 
 
-Nesse projeto mostrarei como implentar forma de pagamento "PIX" utilizando a linguaagem de progamação python e seu framework flask.
+Nesse projeto mostrarei como implentar forma de pagamento "PIX" utilizando a linguagem de progamação python e seu framework flask.
 Esse projeto reune todos os processos exigidos pela [BCB](https://www.bcb.gov.br/estabilidadefinanceira/pix) 
 
 <img src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008" width="80px"/> <img src="https://pedroglp.com/dist/flaskic.png" width="150px"/> <img src="https://www.bcb.gov.br/content/estabilidadefinanceira/piximg/logo_pix.png" width="200px"/>  
